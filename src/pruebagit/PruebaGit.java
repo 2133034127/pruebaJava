@@ -10,6 +10,7 @@ public class PruebaGit {
      */
     public static void main(String[] args) {
         System.out.print("Usando git");
+        System.out.print("Modificando el archivo desde Peppermint");
     }
     
 }
